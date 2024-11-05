@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e51cd9ea.css",
-    "main.js": "/static/js/main.4489e8fb.js",
-    "static/js/453.5ae2ff48.chunk.js": "/static/js/453.5ae2ff48.chunk.js",
-    "worker.js": "/d5a09b66e215e77cc1a9.worker.js",
-    "index.html": "/index.html",
-    "main.e51cd9ea.css.map": "/static/css/main.e51cd9ea.css.map",
-    "main.4489e8fb.js.map": "/static/js/main.4489e8fb.js.map",
-    "453.5ae2ff48.chunk.js.map": "/static/js/453.5ae2ff48.chunk.js.map"
+    "main.css": "/jora-training-playground/static/css/main.e51cd9ea.css",
+    "main.js": "/jora-training-playground/static/js/main.4e3af90f.js",
+    "static/js/453.5ae2ff48.chunk.js": "/jora-training-playground/static/js/453.5ae2ff48.chunk.js",
+    "worker.js": "/jora-training-playground/4217eb3b6c3439827ce0.worker.js",
+    "index.html": "/jora-training-playground/index.html",
+    "main.e51cd9ea.css.map": "/jora-training-playground/static/css/main.e51cd9ea.css.map",
+    "main.4e3af90f.js.map": "/jora-training-playground/static/js/main.4e3af90f.js.map",
+    "453.5ae2ff48.chunk.js.map": "/jora-training-playground/static/js/453.5ae2ff48.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e51cd9ea.css",
-    "static/js/main.4489e8fb.js"
+    "static/js/main.4e3af90f.js"
   ]
 }
